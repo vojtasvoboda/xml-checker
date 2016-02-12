@@ -1,0 +1,4 @@
+checker:
+    feedUrl: http://place-your-feed-url-here.com
+    maxItems: 10
+    type: heureka

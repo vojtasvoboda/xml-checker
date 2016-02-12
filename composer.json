@@ -1,0 +1,18 @@
+{
+    "name": "vojtasvoboda/xml-checker",
+    "description": "Check XML feed",
+    "authors": [
+        {
+            "name": "Vojta Svoboda",
+            "email": "vojtasvoboda.cz@gmail.com"
+        }
+    ],
+    "require-dev": {
+        "symfony/debug": "^3.0",
+        "symfony/var-dumper": "^3.0"
+    },
+    "require": {
+        "symfony/yaml": "^3.0",
+        "symfony/class-loader": "^3.0"
+    }
+}
